@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Hansen</h1>
 <h3 align="center">Full-stack engineer, scuba diver, fire fighter, humanitarian aid worker, you know how it is...</h3>
 
-- 🔭 I’m currently working on refining [MedStock Manager (pharmacy stock management app)](medstockmanager.com)
+- 🔭 I’m currently working on refining [MedStock Manager](medstockmanager.com) (pharmacy stock management app)
 
 - 👯 I’m looking to collaborate on **health tech!**
   
