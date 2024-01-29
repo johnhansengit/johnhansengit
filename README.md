@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm John Hansen</h1>
 <h3 align="center">Full-stack engineer, scuba diver, fire fighter, humanitarian aid worker, you know how it is...</h3>
 
-- 🔭 I’m currently working on refining [MedStock Manager](medstockmanager.com) (pharmacy stock management app)
+- 🔭 I’m currently working on building DESCEND, a scuba diving log app and social network, and refining [MedStock Manager](medstockmanager.com), a pharmacy stock management app I created.
 
 - 👯 I’m looking to collaborate on **health tech!**
   
-- 🌱 I’m currently learning **Machine Learning with Python**
+- 🌱 I’m currently learning **React packages**, **OpenAI's API**, and **Machine Learning with Python**
 
 - 👨‍💻 A bunch of my projects are available at [johnhansen.io](johnhansen.io)
 
-- 📫 How to reach me **john@johnhansen.io**
+- 📫 How to reach me: **john@johnhansen.io**
 
 - 📄 Check out my [résumé](https://docs.google.com/document/d/16RraJld2G3b8-ky8GhkfLEgaV7tW9APhM7nRInoWoj8/edit?usp=sharing)
 
 - 😄 Pronouns: he/him
   
-- ⚡ Fun fact **I used to teach diving at an underwater museum**
+- ⚡ Fun fact **I used to teach scuba diving at the world's largest underwater museum**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
