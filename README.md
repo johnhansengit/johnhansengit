@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Hansen</h1>
 <h3 align="center">Full-stack engineer, scuba diver, fire fighter, humanitarian aid worker, you know how it is...</h3>
 
-- 🔭 I’m currently working on building DESCEND, a scuba diving log app and social network, and refining [MedStock Manager](medstockmanager.com), a pharmacy stock management app I created.
+- 🔭 I’m currently working on building DESCEND (a scuba diving log app and social network) and refining [MedStock Manager](medstockmanager.com) (a pharmacy stock management app I created).
 
 - 👯 I’m looking to collaborate on **health tech!**
   
